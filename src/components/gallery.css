@@ -1,0 +1,4 @@
+/* CSS-only lightbox using :target */
+.lightbox:target {
+  display: flex;
+}
